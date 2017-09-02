@@ -1,5 +1,3 @@
-package com.portware;
-
 /**
  * Class to implement a node which can be used in linked list, doubly linked
  * list and trees.
